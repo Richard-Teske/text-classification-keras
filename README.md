@@ -1,4 +1,4 @@
-# text-classification-keras
+# Text Classification with Python 3.6 and Keras (PT-BR)
 
 Uma simples classificação de textos com Neural Network usando Python e Keras framework
 
